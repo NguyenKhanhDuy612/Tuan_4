@@ -1,8 +1,3 @@
-//
-// import 'package:express_news/VNexpressRSSItem.dart';
-// import 'package:express_news/ssr_item.dart';
-// import 'package:flutter/cupertino.dart';
-// import 'package:flutter/material.dart';
 
 import 'package:flutter/material.dart';
 import 'package:tuan_4/json/RSS/ssr_item.dart';

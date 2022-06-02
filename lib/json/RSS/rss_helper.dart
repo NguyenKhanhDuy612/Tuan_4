@@ -1,13 +1,10 @@
 
 import 'dart:convert';
-//
-// import 'package:express_news/VNexpressRSSItem.dart';
+
 import 'package:http/http.dart' as http;
 import 'package:tuan_4/json/RSS/VNexpressRSSItem.dart';
 import 'package:tuan_4/json/RSS/ssr_item.dart';
 import 'package:xml2json/xml2json.dart';
-// import 'package:express_news/ssr_item.dart';
-// import 'package:xml2json/xml2json.dart';
 
 class RSSHelper{
   static String _rssURL = "https://vnexpress.net/rss/tin-moi-nhat.rss";

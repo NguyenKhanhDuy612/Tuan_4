@@ -1,5 +1,4 @@
 
-// import 'package:express_news/VNexpressRSSItem.dart';
 
 abstract class RSSItem {
   String? title;
